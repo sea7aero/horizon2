@@ -7,7 +7,7 @@ located at [here](https://github.com/OverlookHorizon/OLHZN_Track).
 You will need to provide your own version of the file "include/private.h" which defines the following constants:
 
 ```
-#define PRIVATE_CALLSIGN "KJ7VPV"
+#define PRIVATE_CALLSIGN "YOUR_CALLSIGN_HERE"
 ```
 
 ## Formatting the SD Card
